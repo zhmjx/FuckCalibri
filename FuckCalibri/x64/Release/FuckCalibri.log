@@ -1,3 +1,0 @@
-﻿  main.cpp
-MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 main
-C:\Users\jx\source\repos\FuckCalibri\x64\Release\FuckCalibri.exe : fatal error LNK1120: 1 个无法解析的外部命令

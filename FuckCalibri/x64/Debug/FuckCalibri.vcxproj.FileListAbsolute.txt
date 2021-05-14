@@ -1,2 +1,0 @@
-C:\Users\jx\source\repos\FuckCalibri\x64\Debug\FuckCalibri.exe
-C:\Users\jx\source\repos\FuckCalibri\x64\Debug\FuckCalibri.pdb
